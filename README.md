@@ -46,7 +46,7 @@ Note : there are hidden features, check at the source code of the bot to find th
  [🎬 Click me for the video tutorial](https://drive.google.com/file/d/1HniSEGUOptbZmHVXuOPULnzpyBBhgw3l/view?usp=sharing)
  
 1. Click on the button below :
-<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/msgsuite/clonebot_heroku"> <img src="https://github.com/popsugar101/CloneBot_Heroku.git" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/popsugar101/CloneBot_Heroku"> <img src="https://camo.githubusercontent.com/82d183643e004fe9b6f25d9594a94aeac957c37e390c584e34f5f408ae5e5a4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465706c6f79253230546f2532304865726f6b752d626c756576696f6c65743f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75" alt="Deploy to Heroku" /></a></p>
 
 
 2. Fill the following values : 
